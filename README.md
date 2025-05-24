@@ -40,7 +40,8 @@ You can run the notebook using Jupyter or upload it to Google Colab.
 
 ## Project Link
 
-[View Full Code Here](https://github.com/YourUsername/YourRepoName)
+[View Full Code Here](https://github.com/Nameera982/fake-news-detector)
+
 
 ## About Me
 
